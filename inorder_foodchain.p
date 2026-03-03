@@ -1,11 +1,10 @@
-% TYPES
 
-% Basic Types
+% basic types
 tff(species_type, type, species: $tType).
 tff(foodlink_type, type, foodlink: $tType).
 tff(foodchain_type, type, foodchain: $tType).
 
-% Predicates and Functions
+% predicates & functions
 tff(eats_decl, type, eats: (species * species) > $o).
 tff(eater_decl, type, eater: foodlink > species).
 tff(eaten_decl, type, eaten: foodlink > species).
