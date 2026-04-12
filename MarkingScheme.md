@@ -5,7 +5,7 @@
 <TR> <TD WIDTH=30%> Student:
      <TD WIDTH=10%> &nbsp;
      <TD WIDTH=30%> Mark:
-     <TD WIDTH=10%> /20
+     <TD WIDTH=10%> 20/20
 
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> Types - 3
